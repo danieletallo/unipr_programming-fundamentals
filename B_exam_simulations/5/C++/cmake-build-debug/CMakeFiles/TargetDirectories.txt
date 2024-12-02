@@ -1,0 +1,3 @@
+C:/Users/39338/Desktop/Universita/1anno_2semestre/Programmazione B/Simulazione_Esami/5/C++/cmake-build-debug/CMakeFiles/C__.dir
+C:/Users/39338/Desktop/Universita/1anno_2semestre/Programmazione B/Simulazione_Esami/5/C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/39338/Desktop/Universita/1anno_2semestre/Programmazione B/Simulazione_Esami/5/C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
