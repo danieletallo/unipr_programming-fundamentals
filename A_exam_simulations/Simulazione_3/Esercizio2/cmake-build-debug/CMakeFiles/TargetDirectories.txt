@@ -1,0 +1,3 @@
+C:/Users/39338/Desktop/Universita'/Programmazione A/Simulazioni Esame/Simulazione_3/Esercizio2/cmake-build-debug/CMakeFiles/Esercizio2.dir
+C:/Users/39338/Desktop/Universita'/Programmazione A/Simulazioni Esame/Simulazione_3/Esercizio2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/39338/Desktop/Universita'/Programmazione A/Simulazioni Esame/Simulazione_3/Esercizio2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
